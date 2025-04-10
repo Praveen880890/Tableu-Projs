@@ -11,3 +11,11 @@ Live link for demo: https://public.tableau.com/app/profile/praveen.rao1547/viz/s
 Live Link for demo : https://public.tableau.com/app/profile/praveen.rao1547/viz/Book1_17431128178710/Dashboard1?publish=yes
 
 ![Screenshot 2025-03-28 032258](https://github.com/user-attachments/assets/02d17e0f-4d78-4fbd-95c1-d2ba12e73bde)
+
+
+
+## Tableu_2 dashboard:
+
+Live Link for demo : https://public.tableau.com/app/profile/praveen.rao1547/viz/Netflix_17442668453920/Netflix?publish=yes
+
+![Screenshot 2025-04-10 120259](https://github.com/user-attachments/assets/c2cd9644-803d-4e10-af6e-4af2acc84f89)
